@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenetringify",
+        "uuid": 26795966,
+        "checksum": "n5lbqr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
